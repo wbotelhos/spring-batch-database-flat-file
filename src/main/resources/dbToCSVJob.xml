@@ -57,7 +57,7 @@
 	</bean>
 
 	<!--
-		mvn exec:java -Dexec.mainClass=org.springframework.batch.core.launch.support.CommandLineJobRunner -Dexec.args="dbToCSVJob.xml flatFileWriter"
+		mvn exec:java -Dexec.mainClass=org.springframework.batch.core.launch.support.CommandLineJobRunner -Dexec.args="dbToCSVJob.xml copy"
 	-->
 
 </beans>
