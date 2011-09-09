@@ -12,15 +12,18 @@ Washington Botelho [[Blog](http://wbotelhos.com.br) | [Twitter](http://twitter.c
 
 ## Keywords
 
++ BeanWrapperFieldExtractor;
 + DataSourceTransactionManager;
-+ DefaultLineMapper;
-+ DelimitedLineTokenizer;
++ DelimitedLineAggregator;
 + DriverManagerDataSource;
-+ FlatFileItemReader;
++ FlatFileItemWriter;
++ JdbcCursorItemReader;
 + JdbcTemplate;
++ JobExecutionListener;
 + MapJobRepositoryFactoryBean;
 + RowMapper;
-+ SimpleJobLauncher.
++ SimpleJobLauncher;
++ ItemListenerSupport.
 
 ## Buy me a coffee
 
